@@ -1,0 +1,102 @@
+body{
+    background-color: black;
+}
+.full{
+    box-shadow: white;
+    height: 100%;
+}
+.header{
+    width:60%;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:0;
+    margin-bottom:0;
+    margin: 0 auto;
+    text-align: center;
+    
+}
+.logo{
+    height:80px;
+    background-color:violet;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.nav{
+    height:50px;
+    background-color:green;
+    margin-bottom: 5px;
+}
+.content{
+    width:60%;
+    height: 305px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:0;
+    margin-bottom:0;
+    margin: 0 auto;
+    text-align: center;
+}
+.search{
+    width:25%;
+    height:300px;
+    float: left;
+    background-color: yellowgreen;
+    margin-right:5px;
+}
+.banner{
+    width:46%;
+    height:100px;
+    background-color: peachpuff;
+    float: left;
+}
+.product1{
+    width:46%;
+    height:200px;
+    background-color: saddlebrown;
+    float: left;
+}
+.product2{
+    width:90%;
+    height:180px;
+    background-color: violet;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:15px;
+    margin-bottom:0;
+    margin: 0 auto;
+    text-align: center;
+}
+.sidenav{
+    width:13%;
+    height:200px;
+    float:right;
+    background-color: orange;
+}
+
+.categories{
+    width:13%;
+    height:200px;
+    float:right;
+    background-color: lightskyblue;
+    margin-left:6px;
+}
+.other{
+    width:27%;
+    height:100px;
+    float:right;
+    background-color: chocolate;
+    margin-left:2px;
+}
+.footer{
+    width:60%;
+    height:50px;
+    background-color:deepskyblue;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:0;
+    margin-bottom:0;
+    margin: 0 auto;
+    text-align: center;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
